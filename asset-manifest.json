@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/music_streaming_app/static/css/main.e193c636.css",
+    "main.js": "/music_streaming_app/static/js/main.61b2027d.js",
+    "static/js/453.ac77af2b.chunk.js": "/music_streaming_app/static/js/453.ac77af2b.chunk.js",
+    "index.html": "/music_streaming_app/index.html",
+    "main.e193c636.css.map": "/music_streaming_app/static/css/main.e193c636.css.map",
+    "main.61b2027d.js.map": "/music_streaming_app/static/js/main.61b2027d.js.map",
+    "453.ac77af2b.chunk.js.map": "/music_streaming_app/static/js/453.ac77af2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e193c636.css",
+    "static/js/main.61b2027d.js"
+  ]
+}
