@@ -1,0 +1,58 @@
+.song-card {
+  margin-bottom: 16px; /* Consolidated consistent spacing */
+  /* padding: 12px; */
+  border: 1px solid #e0e0e0; /* Lighter border color for a cleaner look */
+  border-radius: 8px;
+  background: #f9f9f9; /* Slightly off-white background for contrast */
+  width: 220px; /* Slightly smaller for better fit on narrower screens */
+  height: auto; /* Let content determine height */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.song-card:hover {
+  transform: translateY(-5px); /* Lift effect */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Stronger shadow on hover */
+}
+
+.song-image {
+  height: 200px; /* Larger image size for better visual appeal */
+  /* width: 100px; */
+  border-radius: 8px;
+  margin-bottom: 12px; /* Space between image and text */
+  object-fit: cover; /* Maintain aspect ratio */
+}
+
+.song-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #333;
+  margin: 8px 0;
+}
+
+.song-author {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #666; /* Softer color for secondary text */
+  margin-bottom: 12px;
+}
+
+.error-message {
+  color: #ff4d4f; /* Bright red for errors */
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.gt {
+  margin: 32px; /* Reduced margin for balance */
+}
+
+.hello{
+  margin-left: 20px !important;
+}

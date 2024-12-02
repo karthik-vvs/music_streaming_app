@@ -1,0 +1,10 @@
+#s-card{
+    width: 50%;
+    margin: auto;
+    color: green;
+    justify-content: center;
+    border-width: 0;
+}
+.gp{
+    font-size: 25px;
+}

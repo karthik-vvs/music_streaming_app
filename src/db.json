@@ -1,0 +1,112 @@
+{
+  "music": [
+    {
+      "id": "4",
+      "image": "https://pagallworlds.com/wp-content/uploads/2024/11/Pachandaname.jpg",
+      "author": "Hariharan",
+      "name": "Pachandaname",
+      "ad": "https://pagallworlds.com/wp-content/uploads/2024/11/Pachandaname.mp3",
+      "lib": false,
+      "like": false
+    },
+    {
+      "id": "5",
+      "image": "https://pagallworlds.com/wp-content/uploads/2024/11/Mukunda-Mukunda-Krishna.jpg",
+      "author": "Sadhana Sargam",
+      "name": "Mukunda Mukunda",
+      "ad": "https://pagallworlds.com/wp-content/uploads/2024/11/Mukunda-Mukunda-Krishna.mp3",
+      "lib": false,
+      "like": false
+    },
+    {
+      "id": "6",
+      "name": "Sujalam Sufalam",
+      "author": "Vishal Dadlani",
+      "image": "https://pagallworlds.com/wp-content/uploads/2024/11/Sujalam-Sufalam.jpg",
+      "ad": "https://pagallworlds.com/wp-content/uploads/2024/11/Sujalam-Sufalam.mp3",
+      "lib": false,
+      "like": false
+    },
+    {
+      "id": "7",
+      "image": "https://pagallworlds.com/wp-content/uploads/2024/11/Emo-Em-Chestunnav.jpg",
+      "author": "Vishal Mishra",
+      "name": "Emo Em Chestunnav",
+      "ad": "https://pagallworlds.com/wp-content/uploads/2024/11/Emo-Em-Chestunnav.mp3",
+      "lib": false,
+      "like": false
+    },
+    {
+      "id": "8",
+      "image": "https://pagallworlds.com/wp-content/uploads/2024/11/Neeve-Neeve.jpg",
+      "author": "G.V. Prakash Kumar",
+      "name": "Neeve Neeve",
+      "ad": "https://pagallworlds.com/wp-content/uploads/2024/11/Neeve-Neeve.mp3",
+      "lib": true,
+      "like": false
+    },
+    {
+      "id": "9",
+      "image": "https://pagallworlds.com/wp-content/uploads/2024/11/Chitti-Nee-Navvante.jpg",
+      "author": "Ram Miriyala",
+      "name": "Chitti Nee Navvante",
+      "ad": "https://pagallworlds.com/wp-content/uploads/2024/11/Chitti-Nee-Navvante.mp3",
+      "lib": false,
+      "like": false
+    },
+    {
+      "id": "10",
+      "image": "https://pagallworlds.com/wp-content/uploads/2024/04/Aayi-Aayi-Slowed-Reverb.jpg",
+      "author": "isggcugf",
+      "name": "exam",
+      "ad": "https://pagallworlds.com/wp-content/uploads/2024/04/Aayi-Aayi-Slowed-Reverb.mp3",
+      "lib": false,
+      "like": false
+    },
+    {
+      "id": "6865",
+      "image": "https://pagallworlds.com/wp-content/uploads/2024/04/Aayi-Aayi-Slowed-Reverb.jpg",
+      "author": "GDJJDDB",
+      "name": "HJJV",
+      "ad": "https://pagallworlds.com/wp-content/uploads/2024/04/Aayi-Aayi-Slowed-Reverb.mp3",
+      "lib": false,
+      "like": false
+    },
+    {
+      "id": "cd86",
+      "image": "https://pagallworlds.com/wp-content/uploads/2024/04/Aayi-Aayi-Slowed-Reverb.jpg",
+      "author": "hero",
+      "name": "iii",
+      "ad": "https://pagallworlds.com/wp-content/uploads/2024/04/Aayi-Aayi-Slowed-Reverb.mp3",
+      "lib": false,
+      "like": false
+    },
+    {
+      "id": "8778",
+      "image": "https://pagallworlds.com/wp-content/uploads/2024/04/Aayi-Aayi-Slowed-Reverb.jpg",
+      "author": "Karthik",
+      "name": "hello123",
+      "ad": "https://pagallworlds.com/wp-content/uploads/2024/04/Aayi-Aayi-Slowed-Reverb.mp3",
+      "lib": false,
+      "like": false
+    },
+    {
+      "id": "16c3",
+      "image": "https://pagallworlds.com/wp-content/uploads/2024/04/Aayi-Aayi-Slowed-Reverb.jpg",
+      "author": "Karthik",
+      "name": "hello 456",
+      "ad": "https://pagallworlds.com/wp-content/uploads/2024/04/Aayi-Aayi-Slowed-Reverb.mp3",
+      "lib": false,
+      "like": false
+    },
+    {
+      "id": "5d06",
+      "image": "https://pagallworlds.com/wp-content/uploads/2024/04/Aayi-Aayi-Slowed-Reverb.jpg",
+      "author": "Karthik",
+      "name": "hello 456",
+      "ad": "https://pagallworlds.com/wp-content/uploads/2024/04/Aayi-Aayi-Slowed-Reverb.mp3",
+      "lib": false,
+      "like": false
+    }
+  ]
+}
